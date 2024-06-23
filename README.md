@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @muralikrishnamurthi
-- 👀 I’m interested in improving models for development of businnes(trained in sql,python,datascience basics of java and excel proficiency)
-- 🌱 I’m currently learning advanceconcepts of machinelearning and powerbi
-- 💞️ I’m looking to collaborate job in companies
+- 👀 I’m interested in improving models with an An Accrate Dashboards acc to Business requirements(trained in sql,python,datascience basics of java and excel proficiency)
+- 🌱 Love to explore advance concepts of  Excel and powerbi
+- 💞️ Working as DataAnalyst in TCS
 - 📫 How to reach me 9490338104 (or)mailid--jobmurali62@gmail.com
 
 <!---
